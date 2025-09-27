@@ -6,5 +6,5 @@ int main()
 	int n;
 	cin>>n;
   for(int i=0;i<n;i++)
-	cout<<"Mohammed ali"<<endl;
+	cout<<"Malik Mohammed Ali"<<endl;
 }
